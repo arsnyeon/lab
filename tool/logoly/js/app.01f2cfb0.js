@@ -405,7 +405,7 @@
             var t = this
               , e = t.$createElement
               , n = t._self._c || e;
-            return n("p", [t._v("Copyright © 森遇の网页实验室")])
+            return n("p", [t._v("Copyright © 森遇 Web 实验室")])
         }
           , P = []
           , T = (n("e0ae"),
